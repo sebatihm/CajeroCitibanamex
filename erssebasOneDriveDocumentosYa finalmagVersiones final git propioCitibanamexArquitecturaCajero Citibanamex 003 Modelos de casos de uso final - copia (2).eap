@@ -1,0 +1,138 @@
+[33mcommit ba7487cdd3bf9542bfe862945b5b9f8ed771b2be[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Thu May 9 00:36:39 2024 -0600
+
+    Wea que se debe de corregir
+
+[33mcommit a3cd37470ad07fb632b7ee2337df8750464993be[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Wed May 8 01:39:38 2024 -0600
+
+    Diagrama de Dominio Avance y Avances de Sebas y Manu en el diagrama de robustez
+
+[33mcommit 2ce8ab78fd5726462d66b786a8678d0ad06579f7[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Fri May 3 11:54:11 2024 -0600
+
+    Correcion robustez 2 referencias
+
+[33mcommit 24cd58b097bcdff26de6a33453c5dc01b4aa0346[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Wed May 1 22:49:48 2024 -0600
+
+    Diagramas robustes Sebas v1
+
+[33mcommit 2173d153466fe40c4d1ea70e40241d3c1c03c3f9[m
+Merge: e29e454 31b30a6
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Wed May 1 02:16:58 2024 -0600
+
+    wea
+
+[33mcommit e29e4542fdfdf0b7fdeda7fb1d5eb3e55c0b7f39[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Wed May 1 02:13:24 2024 -0600
+
+    intento robuztes
+
+[33mcommit 04da3468640d88e4946abd356f72477aed70544f[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Wed May 1 00:11:49 2024 -0600
+
+    wea
+
+[33mcommit 31b30a666d0cef6ca7cac3c50ed43b01d39063cb[m
+Author: Arteaga Bernal Gerly Daniel <zS21017270@estudiantes.uv.mx>
+Date:   Tue Apr 30 16:10:10 2024 -0600
+
+    commit de miedo
+
+[33mcommit fc0b42ca4ae3854ba8a990826fe13ef8d82a5433[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Thu Apr 18 19:27:27 2024 -0600
+
+    cOLORES
+
+[33mcommit f9ae30d5da1db417faf07458e686ddf3293c89a1[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Thu Apr 18 14:30:28 2024 -0600
+
+    Completado con las especificaciones 18/04/2024
+
+[33mcommit ce5371090686e8e1119f8423ce18f714f6701dd6[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Thu Apr 18 01:50:41 2024 -0600
+
+    TERMINADO DIAGRAMA CU, CLASES Y MODELO DOMINIO
+
+[33mcommit f3da5a499796af649a092158c820a793872e714c[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Thu Apr 18 01:31:51 2024 -0600
+
+    CU Completados falta el diagrama
+
+[33mcommit e74eb9652afb67b6de7dcf642eb61dfea8c1daee[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Thu Apr 18 00:47:15 2024 -0600
+
+    Version 3 casi completado
+
+[33mcommit c2f12fc3e54c17b61b6467742e8450afb8387510[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Thu Apr 18 00:38:47 2024 -0600
+
+    Version 3 casi completado
+
+[33mcommit 795249a81b9d425c64d82e56a14078ef923e658f[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Thu Apr 18 00:35:04 2024 -0600
+
+    Version 2 casi completado
+
+[33mcommit 4a7dd2dc8fb308aa6b9d1d04fbcc6f6c1cc2f1b5[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Thu Apr 18 00:34:21 2024 -0600
+
+    Version 2 casi completado
+
+[33mcommit d845553b624797638492b366fc09c0bd53499088[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Thu Apr 18 00:18:02 2024 -0600
+
+    Version casi acabada 1
+
+[33mcommit 28c7aa39fdf761d7547c991605238b8177c87351[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Thu Apr 18 00:17:30 2024 -0600
+
+    Version casi acabada 1
+
+[33mcommit b0095beb9e47e9e36afc60008ab47cc78cf8df37[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Wed Apr 17 17:23:30 2024 -0600
+
+    arquitectura(cheatteca´s version)
+
+[33mcommit b2c6ad010f9a83fd067707a5e15c4bd46c65ed7c[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Wed Apr 17 17:04:43 2024 -0600
+
+    arquitectura(rafa´s version)
+
+[33mcommit 4827a74bc7dc96d4c7f0b56c06085ad240836043[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Wed Apr 17 17:00:24 2024 -0600
+
+    Corecciones CU rafa o
+
+[33mcommit 4bcbd4332439994446634754ad0d60bcdc872e11[m
+Author: Hernandez Montero Sebastian De Je sus <zS22017007@estudiantes.uv.mx>
+Date:   Wed Apr 17 16:08:23 2024 -0600
+
+    Avances del CU -rafa o
+
+[33mcommit fc35e9543dd6dd3798edf692b01f1317a0d8e3dd[m
+Author: Sebati HM <sebashermon003@gmail.com>
+Date:   Wed Apr 17 00:57:49 2024 -0600
+
+    Control de versiones
